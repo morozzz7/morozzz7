@@ -94,12 +94,6 @@
 ---
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=morozzz7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morozzz7&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=morozzz7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
