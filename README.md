@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
 **Areas of interest:**
@@ -68,6 +69,9 @@
   </a>
   <a href="https://www.ultralytics.com/">
     <img src="https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics" />
+  </a>
+  <a href="https://www.baslerweb.com/en/software/pylon/">
+    <img src="https://img.shields.io/badge/Pylon-Basler-005A9C?style=for-the-badge&logo=basler&logoColor=white" alt="Pylon" />
   </a>
 </p>
 
@@ -102,6 +106,14 @@
 <p>
   <a href="https://github.com/morozzz7">
     <img src="https://img.shields.io/badge/GitHub-morozzz7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  
+  <a href="mailto:alexanmor2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2CA5E0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://t.me/dzanpele">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
