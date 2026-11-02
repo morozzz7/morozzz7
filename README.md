@@ -6,10 +6,6 @@
   Building intelligent systems with neural networks, computer vision, and modern machine learning architectures.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=morozzz7&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
-
 ---
 
 ## 🧠 About Me
